@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Urban Lotus Project</string>
+    <string name="introText">The questions in this scale ask you about your feelings and thoughts during the last
+month. In each case, you will be asked how often you felt or
+thought a certain way.</string>
+    <string name="initials">Initials</string>
+    <string name="age">Age</string>
+    <string name="userGender">Gender</string>
+    <string-array name="gender">
+        <item name="noSay">Gender</item>
+        <item name="trans">Transgender</item>
+        <item name="female">Female</item>
+        <item name="male">Male</item>
+        <item name="other">Other</item>
+    </string-array>
+    <string name="race">Race:</string>
+    <string name="nativeAmerican">Native American/ Alaska Native</string>
+    <string name="asian">Asian</string>
+    <string name="black">Black/ African American</string>
+    <string name="islander">Native Hawaiian/ Pacific Islander</string>
+    <string name="white">White</string>
+    <string name="other">Other</string>
+    <string name="ethnicity">Ethnicity</string>
+    <string name="latino">Hispanic/ Latino</string>
+    <string name="noLatino">Not Hispanic/ Latino</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="scale">0 = Never 1 = Almost Never 2 = Sometimes \n 3 = Fairly Often 4 = Very Often</string>
+    <string name="question1">1. In the last month, how often have you been upset because of
+  something that happened unexpectedly?</string>
+    <string name="question2">2. In the last month, how often have you felt that you were unable to
+  control the important things in your life?</string>
+    <string name="question3">3. In the last month, how often have you felt nervous and "stressed"?</string>
+    <string name="question4">4. In the last month, how often have you felt confident about your
+  ability to handle your personal problems?</string>
+    <string name="question5">5. In the last month, how often have you felt that things were going
+  your way?</string>
+    <string name="submitButton">Submit</string>
+</resources>
+
